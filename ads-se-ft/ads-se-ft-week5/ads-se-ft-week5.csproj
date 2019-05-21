@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{70CFFD42-B1DC-4C15-AF4D-AB1A37B9EA16}</ProjectGuid>
+    <ProjectGuid>{E0B5EA01-F0AE-4F89-8E99-127B3331C0D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ads_se_ft_week1</RootNamespace>
-    <AssemblyName>ads-se-ft-week1</AssemblyName>
+    <RootNamespace>ads_se_ft_week5</RootNamespace>
+    <AssemblyName>ads-se-ft-week5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
