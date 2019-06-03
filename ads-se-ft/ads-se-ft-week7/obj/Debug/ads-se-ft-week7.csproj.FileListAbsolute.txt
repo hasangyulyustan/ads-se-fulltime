@@ -1,0 +1,7 @@
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\bin\Debug\ads-se-ft-week7.exe.config
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\bin\Debug\ads-se-ft-week7.exe
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\bin\Debug\ads-se-ft-week7.pdb
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\obj\Debug\ads-se-ft-week7.csprojAssemblyReference.cache
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\obj\Debug\ads-se-ft-week7.csproj.CoreCompileInputs.cache
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\obj\Debug\ads-se-ft-week7.exe
+C:\Users\User\projects\ads-se-fulltime\ads-se-fulltime\ads-se-ft\ads-se-ft-week7\obj\Debug\ads-se-ft-week7.pdb
